@@ -13,7 +13,8 @@ To navigate through the portfolio, simply click on the links in the table of con
 
 ## #Project 1
 
-[Insert description of Project 1 here]
+This project revolves around cleaning data using SQL which includes standardizing the date format, separating data in a single column into multiple columns, changing 
+certain values using case statements, removing duplicates using a common table expression (CTE) and a window function, and deleting unnecessary columns.
 
 ## #Project 2
 
