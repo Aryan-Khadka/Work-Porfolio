@@ -7,7 +7,7 @@ To navigate through the portfolio, simply click on the links in the table of con
 
 ## Table of Contents
 
-- [Project 1](#project-1)
+- [Project 1](#https://github.com/Aryan-Khadka/Work-Porfolio/blob/2b47f6c45847f1297aa164e6aab6f72f27cd2bf9/Data%20Cleaning%20Project%20Walkthrough.sql)
 - [Project 2](#project-2)
 - [Project 3](#project-3)
 
